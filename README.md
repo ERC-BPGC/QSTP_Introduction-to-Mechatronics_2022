@@ -11,7 +11,7 @@ This originally 6-week course is split up into 2 independent modules:
 1. **CAD Modelling:** Covers basic 3D designing using Fusion360.
 2. **Electronics and Arduino:** Covers the basics of electronics and Arduino, from using a breadboard to controlling LCD displays.
 
-Prefer PDFs over Markdown? View the course handout [here](Course_Hanout.pdf).
+Prefer PDFs over Markdown? View the course handout [here](Course_Handout.pdf).
 
 ## Software Requirements
 
