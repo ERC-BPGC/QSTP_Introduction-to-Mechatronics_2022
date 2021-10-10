@@ -2,11 +2,11 @@
 
 This repository contains all reading materials from the mechatronics summer course taught by [Archit Rungta](https://github.com/archit2604), [Avinandan Nag](https://github.com/Avinandan2604) and [Yash Jangir](https://github.com/offjangir), as part of the QSTP initiative. The goal of this content is to provide a moderate introduction to electronics, Arduino and CAD modelling for beginners. The course requires no hardware, and the Arduino part is completed using TinkerCAD, a free online circuit simulator.
 
-*PS: If you are a beginner interested in learning electronics and Arduino program, Module 2 of this course is a great place to get started.*
+*PS: If you are a beginner interested in learning electronics and Arduino program, `Electronics Week` of this course is a great place to get started.*
 
 ## Course Structure
 
-This originally 6-week course is split up into 2 independent modules:
+This course is split up into 2 independent modules:
 
 1. **CAD Modelling:** Covers basic 3D designing using Fusion360.
 2. **Electronics and Arduino:** Covers the basics of electronics and Arduino, from using a breadboard to controlling LCD displays.
